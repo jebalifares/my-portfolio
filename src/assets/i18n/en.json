@@ -1,0 +1,122 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "feres_jbeli_software_java_developer.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I am a Full-Stack Developer with over <span class='underline'>3 years of experience</span> building scalable web applications and enterprise solutions. On the <span class='underline'>frontend</span>, I specialize in creating responsive, user-friendly interfaces using <span class='underline'>Angular</span>. On the <span class='underline'>backend</span>, I develop secure and high-performance systems with <span class='underline'>Spring Boot framework</span>, and occasionally use <span class='underline'>Maven</span> for automation and data-driven tasks. My focus is on writing clean, reusable, and maintainable code while applying modern development standards and best practices to deliver solutions that are both technically robust and aligned with business goals.",
+  "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "With over <span class='underline'>3 years of experience</span> as a Full-Stack java Developer, I have worked across the full development lifecycle, from writing <span class='underline'>unit tests</span> and setting up <span class='underline'>CI pipelines</span> to building backend systems with <span class='underline'>Spring boot, MongoDB, and MySQL</span>. I have also led teams, fostering collaboration and aligning goals with empathy and clear communication.",
+    "I specialize in creating scalable solutions by <span class='underline'>optimizing performance</span>, <span class='underline'>standardizing patterns</span>, and delivering clean, maintainable code. My expertise spans <span class='underline'>frontend frameworks</span> like <span class='underline'>Angular</span>, as well as <span class='underline'>backend technologies</span> such as <span class='underline'> Spring boot</span>, complemented by experience with relational and NoSQL databases."
+  ],
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Cynalys",
+      "Title": "Fullstack Java/Angular developer",
+      "Date": "Jan 2022 - November 2025",
+      "Description": [
+        "Developed a large, complex, and secure SaaS platform from the ground up, utilizing Java and Spring Boot within a microservices architecture to connect patients and healthcare professionals internationally.",
+        "Designed and developed HIPAA-compliant REST APIs for patient data management.",
+        "Implemented microservices architecture for appointment scheduling and electronic health records (EHR).",
+        "Integrated medical device data streams and real-time health monitoring",
+        "Reduced API response time by 40% through query optimization and caching strategies",
+        "Planning meetings in reports.",
+		"Developed responsive Angular interfaces for patient portals and doctor dashboards",
+		"Implemented real-time features for video consultations and medical chat",
+		"Created accessible UI components meeting WCAG 2.1 healthcare accessibility standards",
+		"Enhanced application performance, reducing load time from 4.2s to 1.8s"
+    ]},
+    {
+      "Tab": "FRS",
+      "Title": "Fullstack java developer",
+      "Date": "Jan 2021 - August 2021",
+      "Description": [
+		 "Developed a management application using Angular for the frontend and Spring Boot for the backend,ensuring a seamless user experience.",
+		 "Implemented responsive and user-friendly interfaces with Angular Material and TypeScript.Backend Development",
+		 "Designed and built RESTful APIs with Spring Boot, enabling CRUD operations for managing application data. Integrated JPA/Hibernate with a relational database to manage and persist business data efficiently.",
+		 "Used Angular services to communicate with APIs and manage application state.",
+		 "Created reusable components and directives to streamline the development process.",
+		 "Implemented JWT-based authentication to secure APIs and manage user sessions.",
+		 "Developed role-based access control to restrict functionality based on user roles.",
+		 "Generated dynamic reports in PDF format using the jsPDF library, allow",
+        "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
+        "Built a real-time chat application using WebSockets and Node.js, increasing communication and collaboration among team members.",
+        "Implementation of continuous integration and daily backups.",
+        "Leading a team of 4 people in the development of a E-commerce platform made in React, Node, and MySQL.",
+        "Planning meetings in reports."
+      ]
+    },
+
+    {
+      "Tab": "Freelancer",
+      "Title": "Independent",
+      "Description": [
+        "Implementing continuous improvements, working on frontend and backend.",
+        "Creating platforms with Angular, Spring Boot rogrammed with functional, reactive, and object-oriented programming paradigms.",
+        "Automation of processes with data structures.",
+        "Design layout with SASS, Bootstrap, Materialize, Prime Faces, etc."
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "Projects that I was a part of",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Doctolys",
+      "Description": "Telemedicine platform connecting patients and healthcare professionals internationally.",
+      "imgs": [
+        "assets/images/school/doctolys3.png",
+        "assets/images/school/doctolys1.jpg"
+      ],
+      "demoLink": "https://doctolys.com/",
+      "Technologies": ["Angular", "Angular Material", "Spring Boot", "Maven"]
+    },
+    {
+      "Title": "Online Food Store",
+      "Description": "BestFood is Online store where you can buy your food",
+      "imgs": ["assets/images/bbm/food1.png"],
+      "demoLink": "https://www.bestbuymall.pk/businesses/Lahore",
+      "Technologies": ["Angular", "SASS", "Material", "RxJS", "Spring boot"]
+    }
+   
+  ],
+  "OtherProjects.Title": "More personal projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Task Manager",
+      "Description": "Task Manager is a web app which is built using the 3rd Party Api integration. This app help you to manage your daily tasks",
+      "ghLink": "https://github.com/jebalifares/TaskManager_Spring-boot",
+      "demoLink": "https://github.com/jebalifares/TaskManager_Spring-boot",
+      "Technologies": ["Angular", "RxJs", "API", "Bootstrap", "Spring Boot"]
+    },
+    {
+      "Title": "Wezz Player",
+      "Description": "A real-time mobile application for controlling smart tv android from distance :)",
+      "ghLink": "https://github.com/jebalifares/WeezPlayerEndMobile",
+      "Technologies": [
+        "Angular",
+        "IONIC",
+        "Socket.io",
+        "Spring boot",
+        "Android"
+      ]
+    },
+   
+    {
+      "Title": "JWT Integration",
+      "Description": "JWT AUTHENTICATION IN Spring Boot WITH POSTGREESQL DB",
+      "ghLink": "https://github.com/jebalifares/jwt-authentification",
+      "demoLink": "https://github.com/jebalifares/jwt-authentification",
+      "Technologies": ["Spring Boot", "JWT", "POSTGREESQL"]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Btn": "Say Hello"
+}
